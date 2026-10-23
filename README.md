@@ -77,4 +77,4 @@ Power BI Desktop · Power Query (M) · DAX · Star schema modeling
 
 ---
 
-*Built by [Your Name] · [LinkedIn](https://linkedin.com/in/your-profile)*
+*Built by Vikas · [LinkedIn]www.linkedin.com/in/vikaskulkarni-vk*
